@@ -1,0 +1,8 @@
+E:\Coding\Projects\ByteChecker\ByteChecker\bin\Debug\ByteChecker.exe.config
+E:\Coding\Projects\ByteChecker\ByteChecker\bin\Debug\ByteChecker.exe
+E:\Coding\Projects\ByteChecker\ByteChecker\bin\Debug\ByteChecker.pdb
+E:\Coding\Projects\ByteChecker\ByteChecker\obj\Debug\ByteChecker.csproj.AssemblyReference.cache
+E:\Coding\Projects\ByteChecker\ByteChecker\obj\Debug\ByteChecker.csproj.SuggestedBindingRedirects.cache
+E:\Coding\Projects\ByteChecker\ByteChecker\obj\Debug\ByteChecker.csproj.CoreCompileInputs.cache
+E:\Coding\Projects\ByteChecker\ByteChecker\obj\Debug\ByteChecker.exe
+E:\Coding\Projects\ByteChecker\ByteChecker\obj\Debug\ByteChecker.pdb
